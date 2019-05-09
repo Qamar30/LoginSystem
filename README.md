@@ -1,4 +1,4 @@
-# PHP User Registeration system
+# PHP User Registration system
 ![screenshot_2018-09-17 sign up](https://user-images.githubusercontent.com/27438491/45899238-8d8bbc00-bddc-11e8-939c-c86b44e9f320.jpg)
 
   
