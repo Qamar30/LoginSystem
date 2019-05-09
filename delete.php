@@ -3,7 +3,7 @@
 include 'navbar.php';
 require_once 'config.php';
 // Process delete operation after confirmation
-$sql = "DELETE FROM users WHERE id=6";
+$sql = "DELETE FROM users WHERE id=10";
 
 if (mysqli_query($mysqli, $sql)) {
     echo "Record deleted successfully";
